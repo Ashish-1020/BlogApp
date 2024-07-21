@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories_array">
+        <item>Choose one category</item>
+        <item>Technology</item>
+        <item>Yoga</item>
+        <item>Lifestyle</item>
+        <item>Education</item>
+        <item>Adventure</item>
+        <item>Management</item>
+        <item>Gardening</item>
+        <item>Geopolitics</item>
+        <item>Sports</item>
+    </string-array>
+
+</resources>

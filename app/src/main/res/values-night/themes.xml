@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BlogPulse" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="android:fontFamily">@font/roboto</item>
+    </style>
+    <style name="Theme.BlogPulse" parent="Base.Theme.BlogPulse" />
+</resources>

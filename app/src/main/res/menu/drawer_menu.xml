@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home1" />
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/profile1"/>
+    <item
+        android:id="@+id/savedposts"
+        android:title="Saved Posts"
+        android:icon="@drawable/savedposts"/>
+    <item
+        android:id="@+id/category"
+        android:title="Followed Categories"
+        android:icon="@drawable/vaadin_lines"/>
+
+
+    <item
+        android:id="@+id/aboutus"
+        android:title="About Us"
+        android:icon="@drawable/aboutus"/>
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/logout"/>
+
+
+
+
+</menu>

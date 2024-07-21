@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/cardview_blogpost"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginTop="10dp"
+   android:background="@color/white"
+    app:cardCornerRadius="10dp"
+    android:elevation="10dp"
+    android:outlineAmbientShadowColor="@color/black"
+    android:layout_centerHorizontal="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/blog_image"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                app:srcCompat="@drawable/product_manager" />
+
+            <TextView
+                android:id="@+id/blogCategory_txt"
+                android:layout_width="80dp"
+                android:layout_height="20dp"
+                android:layout_marginTop="150dp"
+                android:layout_marginLeft="25dp"
+                android:textSize="12dp"
+                android:gravity="center"
+                android:text="Lifestyle"
+                android:fontFamily="@font/love_ya_like_a_sister"
+                android:textColor="@color/white"
+                android:background="@color/background_box_blue" />
+
+            <TextView
+                android:id="@+id/blogTitle_txt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Top 10 things to remeber while work from home"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:layout_below="@+id/blog_image"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"/>
+
+
+
+            <TextView
+                android:id="@+id/blog_UploadDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="10 May 2024"
+                android:textSize="15dp"
+                android:textColor="@color/black"
+               android:layout_below="@+id/blogTitle_txt"
+                android:layout_marginLeft="15dp"/>
+
+            <TextView
+                android:id="@+id/blog_views"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2.3k Views"
+                android:textSize="15dp"
+                android:textColor="@color/black"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/blogTitle_txt"
+                android:layout_marginRight="15dp"/>
+
+
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
