@@ -22,7 +22,7 @@ Check out the demo video of the BlogPulse app on [YouTube](https://youtu.be/KEg0
 Design    
 Explore the design of the BlogPulse app on [Figma](https://www.figma.com/design/YD5Bb0nnxTRTEqzWL5t916/Untitled?node-id=0-1&t=Vty03pMrGQFQrTiV-0).   
 
-![welcomeScreen1](https://github.com/user-attachments/assets/6134dc4e-ba1d-4af0-aaa9-e42fe9e44472)
+![welcomeScreen1](https://github.com/user-attachments/assets/6134dc4e-ba1d-4af0-aaa9-e42fe9e44472)    
 ![registerScreen](https://github.com/user-attachments/assets/324cd49f-92c1-4829-a2c3-44f079bae53e)    
 ![category](https://github.com/user-attachments/assets/9470a262-a8fb-4221-9f67-921e3327be8f)   
 ![category1](https://github.com/user-attachments/assets/ea3a6028-5346-4b02-830f-ef0abc8ed415)   
