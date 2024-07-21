@@ -13,4 +13,11 @@ This is my first learning project , developed using Java, XML, Glide library, an
 5. **💬 Engage with Blogs**: Check the number of responses and the date each blog was published.     
 6. **🌟 Intuitive User Interface**: Enjoy a sleek and user-friendly design.       
 7. **📥 Save Your Favorites**: Save blogs for later reading.       
-8. **🔄 Update Your Profile**: Easily update your profile information.      
+8. **🔄 Update Your Profile**: Easily update your profile information.        
+
+Demo Video   
+Check out the demo video of the BlogPulse app on [YouTube](https://youtu.be/KEg0HxdyNBI?feature=shared) .       
+    
+
+Design    
+Explore the design of the BlogPulse app on [Figma](https://www.figma.com/design/YD5Bb0nnxTRTEqzWL5t916/Untitled?node-id=0-1&t=Vty03pMrGQFQrTiV-0).     
